@@ -1,0 +1,13 @@
+p {
+
+  margin: 1em 0;
+  padding: 1.4em;
+  background: linear-gradient(60deg, rgb(0, 255, 68), rgb(72, 0, 255), red, rgb(0, 255, 51), rgb(0, 255, 55));
+  font: 900 4.2em sans-serif;
+}
+
+.text {
+  color: rgba(0, 0, 0, 0.2);
+  background-clip: text;
+  -webkit-background-clip: text;
+}

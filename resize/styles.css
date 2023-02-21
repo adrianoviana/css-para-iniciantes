@@ -1,0 +1,10 @@
+.resizable {
+  overflow: scroll;
+  border: 1px solid black;
+  resize: both;
+}
+
+div {
+  height: 300px;
+  width: 300px;
+}

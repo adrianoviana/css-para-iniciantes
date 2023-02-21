@@ -1,0 +1,6 @@
+div {
+  border: solid red;
+  width: 140px;
+  height: 60px;
+  transform: scale(2,2);
+}
